@@ -4,6 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
+[MetaFSCIL](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet20|60.79|24.53|74.50|49.97|Pytorch
 [FSIL-GAN](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160)|ACMMM|2022|ResNet18-ImageNet|55.30|23.53|70.14|46.61|Pytorch
 [LIMIT](https://arxiv.org/pdf/2203.17030)|TPAMI|2022|ResNet20|61.84|22.58|73.81|51.23|[Pytorch](https://github.com/LAMDA-CL/TPAMI-Limit)
 [FACT](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet20|62.24|22.50|74.60|52.10|[Pytorch](https://github.com/LAMDA-CL/CVPR22-Fact)
