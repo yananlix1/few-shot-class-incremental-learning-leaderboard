@@ -4,7 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
-[WaRP](https://openreview.net/pdf?id=kPLzOfPfA2l)|ICLR|2023|ResNet18|65.82|25.57|80.31|54.74|[Pytorch](https://github.com/EdwinKim3069/WaRP-CIFSL)
+[WaRP](https://openreview.net/pdf?id=kPLzOfPfA2l)|ICLR|2023|ResNet20|65.82|25.57|80.31|54.74|[Pytorch](https://github.com/EdwinKim3069/WaRP-CIFSL)
 [C-FSCIL](https://arxiv.org/pdf/2203.16588)|CVPR|2022|ResNet12|61.84|27.27|77.50|50.23|[Pytorch](https://github.com/IBM/constrained-FSCIL)
 [MetaFSCIL](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet20|60.79|24.53|74.50|49.97|Pytorch
 [FSIL-GAN](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160)|ACMMM|2022|ResNet18-ImageNet|55.30|23.53|70.14|46.61|Pytorch
