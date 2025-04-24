@@ -6,6 +6,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 |------|------|------|------|------|------|------|------|------|
 [LIMIT](https://arxiv.org/pdf/2203.17030)|TPAMI|2022|ResNet18|50.09|23.13|72.32|49.49|[Pytorch](https://github.com/LAMDA-CL/TPAMI-Limit)
 [FACT](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet18|60.70|22.07|72.56|50.49|[Pytorch](https://github.com/LAMDA-CL/CVPR22-Fact)
+[SPPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.pdf)|CVPR|2021|ResNet18|52.76|19.53|61.45|41.92|[Pytorch](https://github.com/zhukaii/SPPR)
 [F2M](https://openreview.net/pdf?id=ALvt7nXa2q)|NeurIPS|2021|ResNet18|54.89|22.63|67.28|44.65|[Pytorch](https://github.com/moukamisama/F2M)
 [FSLL](https://arxiv.org/pdf/2103.00991)|AAAI|2021|ResNet18|----|----|----|----|Pytorch
 [ERL](https://ojs.aaai.org/index.php/AAAI/article/view/16213)|AAAI|2021|ResNet18|----|----|----|----|Pytorch
