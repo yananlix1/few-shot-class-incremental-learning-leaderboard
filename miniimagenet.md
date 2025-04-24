@@ -7,5 +7,6 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 [LIMIT](https://arxiv.org/pdf/2203.17030)|TPAMI|2022|ResNet18|50.09|23.13|72.32|49.49|[Pytorch](https://github.com/LAMDA-CL/TPAMI-Limit)
 [FACT](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet18|60.70|22.07|72.56|50.49|[Pytorch](https://github.com/LAMDA-CL/CVPR22-Fact)
 [FSLL](https://arxiv.org/pdf/2103.00991)|AAAI|2021|ResNet18|----|----|----|----|Pytorch
+[ERL](https://ojs.aaai.org/index.php/AAAI/article/view/16213)|AAAI|2021|ResNet18|----|----|----|----|Pytorch
 [CEC](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.pdf)|CVPR|2021|ResNet18|57.75|24.37|72.00|47.63|[Pytorch](https://github.com/icoz69/CEC-CVPR2021)|
 |[TOPIC](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf)|CVPR|2020|ResNet18|39.64|36.89|61.31|24.42|[Pytorch](https://github.com/xyutao/fscil)|
