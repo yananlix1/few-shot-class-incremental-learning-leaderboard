@@ -6,9 +6,9 @@ We are trying to include all the few-shot class-incremental learning papers on t
 
 CIFAR100: [[Markdown]](https://github.com/yananlix1/few-shot-class-incremental-learning-leaderboard/blob/main/cifar100.md)
 
-CUB200: [Markdown]
+CUB200: [[Markdown]](https://github.com/yananlix1/few-shot-class-incremental-learning-leaderboard/blob/main/cub200.md)
 
-miniImageNet: [Markdown]
+miniImageNet: [[Markdown]](https://github.com/yananlix1/few-shot-class-incremental-learning-leaderboard/blob/main/miniimagenet.md)
 
 
 # Contact
