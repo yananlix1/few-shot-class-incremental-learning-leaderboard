@@ -4,6 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
+[LRT](https://arxiv.org/pdf/2501.05862)|TPAMI|2024|ResNet50-CLIP|75.94|24.83|90.17|65.34|[Pytorch](https://github.com/iCVTEAM/LRT)
 [FineFMPL](https://www.ijcai.org/proceedings/2024/0144.pdf)|IJCAI|2024|ViT-B/16-CLIP|93.36|4.8|96.0|91.2| [Pytorch](https://github.com/PKU-ICST-MIPL/FineFMPL_IJCAI2024)
 [PriViLege](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners_CVPR_2024_paper.pdf)|CVPR|2024|ViT-B/16-ImageNet21K|95.27|2.58|96.68|94.10|[Pytorch](https://github.com/KU-VGI/PriViLege)
 [ASP](https://arxiv.org/pdf/2403.09857)|ECCV|2024|ViT-B/16-ImageNet1K|--|--|--|--|[Pytorch](https://github.com/DawnLIU35/FSCIL-ASP)
