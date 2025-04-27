@@ -4,6 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
+[PriViLege](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners_CVPR_2024_paper.pdf)|CVPR|2024|ViT-B/16-ImageNet21K|88.08|4.82|90.88|86.06|[Pytorch](https://github.com/KU-VGI/PriViLege)
 [ASP](https://arxiv.org/pdf/2403.09857)|ECCV|2024|ViT-B/16-ImageNet1K|89.0|5.5|92.2|86.7|[Pytorch](https://github.com/DawnLIU35/FSCIL-ASP)
 [GKEAL](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)|CVPR|2023|ResNet20|61.35|22.61|74.01|51.40|[Pytorch](https://github.com/ZHUANGHP/Analytic-continual-learning)
 [BiDistFSCIL](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)|CVPR|2023|ResNet18|66.55|22.89|79.45|56.56|[Pytorch](https://github.com/LinglanZhao/BiDistFSCIL)
