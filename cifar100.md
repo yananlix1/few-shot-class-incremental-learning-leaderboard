@@ -4,6 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
+[TEEN](https://openreview.net/pdf?id=8NAxGDdf7H)|NeurIPS|2023|ResNet18|63.10|22.28|74.92|52.64|[Pytorch](https://github.com/wangkiw/TEEN)
 [SAVC](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Learning_With_Fantasy_Semantic-Aware_Virtual_Contrastive_Constraint_for_Few-Shot_Class-Incremental_CVPR_2023_paper.pdf)|CVPR|2023|ResNet20|63.63|25.65|78.77|53.12|[Pytorch](https://github.com/zysong0113/SAVC)
 [WaRP](https://openreview.net/pdf?id=kPLzOfPfA2l)|ICLR|2023|ResNet20|65.82|25.57|80.31|54.74|[Pytorch](https://github.com/EdwinKim3069/WaRP-CIFSL)
 [C-FSCIL](https://arxiv.org/pdf/2203.16588)|CVPR|2022|ResNet12|61.84|27.27|77.50|50.23|[Pytorch](https://github.com/IBM/constrained-FSCIL)
