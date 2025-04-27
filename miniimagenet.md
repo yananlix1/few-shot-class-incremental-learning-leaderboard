@@ -4,7 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
-FineFMPL|IJCAI|2024|ViT-B/16-CLIP| | | | | [Pytorch](https://github.com/PKU-ICST-MIPL/FineFMPL_IJCAI2024)
+[FineFMPL](https://www.ijcai.org/proceedings/2024/0144.pdf)|IJCAI|2024|ViT-B/16-CLIP|93.36|4.8|96.0|91.2| [Pytorch](https://github.com/PKU-ICST-MIPL/FineFMPL_IJCAI2024)
 [PriViLege](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners_CVPR_2024_paper.pdf)|CVPR|2024|ViT-B/16-ImageNet21K|95.27|2.58|96.68|94.10|[Pytorch](https://github.com/KU-VGI/PriViLege)
 [ASP](https://arxiv.org/pdf/2403.09857)|ECCV|2024|ViT-B/16-ImageNet1K|--|--|--|--|[Pytorch](https://github.com/DawnLIU35/FSCIL-ASP)
 [GKEAL](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)|CVPR|2023|ResNet18|60.48|22.28|73.59|51.31|[Pytorch](https://github.com/ZHUANGHP/Analytic-continual-learning)
