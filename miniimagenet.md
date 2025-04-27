@@ -4,6 +4,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 
 |Method|Venue|Year|Backbone|AVG|PD|Base|Last|Code|
 |------|------|------|------|------|------|------|------|------|
+[GKEAL](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)|CVPR|2023|ResNet18|60.48|22.28|73.59|51.31|[Pytorch](https://github.com/ZHUANGHP/Analytic-continual-learning)
 [BiDistFSCIL](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)|CVPR|2023|ResNet18|62.06|21.26|74.65|53.39|[Pytorch](https://github.com/LinglanZhao/BiDistFSCIL)
 [NC-FSCIL](https://arxiv.org/pdf/2302.03004)|ICLR|2023|ResNet12|67.82|25.71|84.02|58.31|[Pytorch](https://github.com/NeuralCollapseApplications/FSCIL)
 [TEEN](https://openreview.net/pdf?id=8NAxGDdf7H)|NeurIPS|2023|ResNet18|61.44|21.45|73.53|52.08|[Pytorch](https://github.com/wangkiw/TEEN)
