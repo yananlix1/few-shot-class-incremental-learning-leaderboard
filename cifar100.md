@@ -20,6 +20,7 @@ We mainly report two important metrics: (1) AVG: the average top-1 accuracies ac
 [FSIL-GAN](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160)|ACMMM|2022|ResNet18-ImageNet|55.30|23.53|70.14|46.61|Pytorch
 [LIMIT](https://arxiv.org/pdf/2203.17030)|TPAMI|2022|ResNet20|61.84|22.58|73.81|51.23|[Pytorch](https://github.com/LAMDA-CL/TPAMI-Limit)
 [FACT](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)|CVPR|2022|ResNet20|62.24|22.50|74.60|52.10|[Pytorch](https://github.com/LAMDA-CL/CVPR22-Fact)
+[MgSVF](https://arxiv.org/pdf/2006.15524)|TPAMI|2021|ResNet18|--|--|--|--|Pytorch
 [SPPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.pdf)|CVPR|2021|ResNet18|54.36|20.65|63.97|43.32|[Pytorch](https://github.com/zhukaii/SPPR)
 [F2M](https://openreview.net/pdf?id=ALvt7nXa2q)|NeurIPS|2021|ResNet18|53.65|20.04|64.71|44.67|[Pytorch](https://github.com/moukamisama/F2M)
 [FSLL](https://arxiv.org/pdf/2103.00991)|AAAI|2021|ResNet18|----|----|----|----|Pytorch
